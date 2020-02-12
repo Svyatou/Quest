@@ -11,11 +11,12 @@
     <TextView
         android:id="@+id/tete"
         android:layout_width="match_parent"
-        android:layout_height="269dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="cursive"
         android:text="@string/texxxx"
         android:textAlignment="center"
-        android:textColor="#A150FF29"
+        android:textColor="#A11A1A1A"
         android:textSize="36sp"
-        android:textStyle="bold" />
+        android:textStyle="bold|italic" />
 
 </LinearLayout>
